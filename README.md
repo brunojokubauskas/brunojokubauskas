@@ -6,19 +6,10 @@
 
 </div> 
 <div align="center">
-- 🌱 I’m currently learning:
-    <li>HTML</li> 
-    <li>CSS</li>
-    <li>Java</li> 
-    <li>C</li> 
+- 🌱 I’m currently learning: Front End Developtment. 
 </div>
 <div align="center">
-    💬 Ask me about:
-    <li>Philosophy </li>
-    <li> Politic's </li>
-    <li> Art </li>
-    <li>Science</li> 
-    <li>Music </li>
+  <p> Enthusiast in music, art and philosophy. 
 </ul>  
 </div>
 <div align="center">
@@ -35,14 +26,4 @@
 </div>
 <!--
 **brunojokubauskas/brunojokubauskas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning HTML, CSS, C and Java.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
